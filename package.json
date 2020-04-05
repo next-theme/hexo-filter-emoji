@@ -1,9 +1,9 @@
 {
   "name": "hexo-filter-emoji",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "A Hexo plugin that adds emojis support, using Github Emojis API.",
   "main": "index.js",
-  "repository": "https://github.com/theme-next/hexo-filter-emoji",
+  "repository": "https://github.com/hexo-next/hexo-filter-emoji",
   "engines": {
     "node": ">=10.9.0"
   },
