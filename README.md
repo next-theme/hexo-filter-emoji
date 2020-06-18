@@ -7,12 +7,13 @@
 
 A Hexo plugin that adds emoji support, using [Github Emojis API](https://api.github.com/emojis).
 
-Check out the [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) for all the emojis it supports.
+Check out the [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) for all the emojis it supports.
 
 ## Installation
 
 ``` bash
 $ npm install hexo-filter-emoji
+$ hexo clean
 ```
 
 ## Options
