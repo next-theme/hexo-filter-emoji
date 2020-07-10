@@ -2,12 +2,11 @@ const _ = require('lodash');
 const path = require('path');
 const fs = require('fs');
 const https = require('https');
-const randomUa = require('random-ua');
 
 // get the latest github version
 https.get('https://api.github.com/emojis', {
   headers: {
-    'User-Agent': randomUa.generate()
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'
   }
 }, res => {
   let data = '';
