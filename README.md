@@ -11,7 +11,7 @@ Check out the [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## Installation
 
-``` bash
+```bash
 $ npm install hexo-filter-emoji
 $ hexo clean
 ```
@@ -20,7 +20,7 @@ $ hexo clean
 
 You can configure this plugin in Hexo `_config.yml`. Default options:
 
-``` yaml
+```yaml
 emoji:
   enable: true
   className: github-emoji

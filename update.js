@@ -24,7 +24,7 @@ https.get('https://api.github.com/emojis', {
 });
 
 function parseData(data) {
-  var json = JSON.parse(data);
+  const json = JSON.parse(data);
   if (!_.isObject(json)) {
     console.log('Error parsing JSON!');
   }
