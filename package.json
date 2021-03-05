@@ -18,6 +18,6 @@
   "author": "Mimi <stevenjoezhang@gmail.com> (https://zhangshuqiao.org)",
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.19"
+    "lodash": "4.17.21"
   }
 }
