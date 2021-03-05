@@ -3,7 +3,7 @@
   "version": "2.2.1",
   "description": "A Hexo plugin that adds emojis support, using Github Emojis API.",
   "main": "index.js",
-  "repository": "https://github.com/next-theme/hexo-filter-emoji",
+  "repository": "next-theme/hexo-filter-emoji",
   "engines": {
     "node": ">=10.9.0"
   },
